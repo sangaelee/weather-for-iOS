@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>703A098E-7C65-4C7F-899B-02D047632676</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>703A098E-7C65-4C7F-899B-02D047632676.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weather_Final project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weather_Final</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Weather_Final</string>
+			<key>timeStartedRecording</key>
+			<real>561400090.92859805</real>
+			<key>timeStoppedRecording</key>
+			<real>561400097.66421795</real>
+			<key>title</key>
+			<string>Build Weather_Final</string>
+			<key>uniqueIdentifier</key>
+			<string>703A098E-7C65-4C7F-899B-02D047632676</string>
+		</dict>
+		<key>A8AA20C9-F1CE-4F23-BB07-D9086B687A14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8AA20C9-F1CE-4F23-BB07-D9086B687A14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weather_Final project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weather_Final</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Weather_Final</string>
+			<key>timeStartedRecording</key>
+			<real>561400547.01132798</real>
+			<key>timeStoppedRecording</key>
+			<real>561400547.09348595</real>
+			<key>title</key>
+			<string>Build Weather_Final</string>
+			<key>uniqueIdentifier</key>
+			<string>A8AA20C9-F1CE-4F23-BB07-D9086B687A14</string>
+		</dict>
+		<key>DDC76F9A-5749-4827-8B2C-C15895A583F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DDC76F9A-5749-4827-8B2C-C15895A583F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weather_Final project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weather_Final</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Weather_Final</string>
+			<key>timeStartedRecording</key>
+			<real>561400480.60741496</real>
+			<key>timeStoppedRecording</key>
+			<real>561400483.85292602</real>
+			<key>title</key>
+			<string>Build Weather_Final</string>
+			<key>uniqueIdentifier</key>
+			<string>DDC76F9A-5749-4827-8B2C-C15895A583F1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

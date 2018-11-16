@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "59f10101adc00e2c0add401ea0e9b719"
+build_time: [1539707680, 744963000]
+inputs:
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Models/ParseJson.swift": [1539436003, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Models/WeatherInfo.swift": [1539381699, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Controllers/SearchViewController.swift": [1539707523, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Controllers/ViewController.swift": [1539707680, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Models/CitySearch.swift": [1539150104, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/AppDelegate.swift": [1539706900, 0]
+  "/Users/user144724/Desktop/Weather_Final/Weather_Final/Controllers/DetailViewController.swift": [1539376999, 0]
+  "/Users/user144724/Desktop/Weather_Final/DerivedData2/Weather_Final/Build/Intermediates.noindex/Weather_Final.build/Debug-iphonesimulator/Weather_Final.build/DerivedSources/CoreDataGenerated/Weather_Final/CityWeather+CoreDataClass.swift": [1539707545, 0]
+  "/Users/user144724/Desktop/Weather_Final/DerivedData2/Weather_Final/Build/Intermediates.noindex/Weather_Final.build/Debug-iphonesimulator/Weather_Final.build/DerivedSources/CoreDataGenerated/Weather_Final/CityWeather+CoreDataProperties.swift": [1539707545, 0]
+  "/Users/user144724/Desktop/Weather_Final/DerivedData2/Weather_Final/Build/Intermediates.noindex/Weather_Final.build/Debug-iphonesimulator/Weather_Final.build/DerivedSources/CoreDataGenerated/Weather_Final/Weather_Final+CoreDataModel.swift": [1539707545, 0]

@@ -1,0 +1,522 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WeatherInfoDelegate"
+- "WeatherInfo"
+provides-nominal:
+- "13Weather_Final0A12InfoDelegateP"
+- "13Weather_Final0A4InfoC"
+- "13Weather_Final0A4InfoC0A4DataV"
+- "13Weather_Final0A4InfoC11ForcastDataV"
+provides-member:
+- ["13Weather_Final0A12InfoDelegateP", ""]
+- ["13Weather_Final0A4InfoC", ""]
+- ["13Weather_Final0A4InfoC0A4DataV", ""]
+- ["13Weather_Final0A4InfoC11ForcastDataV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private "??"
+- "AppDelegate"
+- !private "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- "CityWeather"
+- !private "DispatchQueue"
+- "Double"
+- "FloatLiteralType"
+- !private "Int"
+- !private "IntegerLiteralType"
+- !private "NSDictionary"
+- "ParseJson"
+- "String"
+- "StringLiteralType"
+- !private "UIApplication"
+- "WeatherInfo"
+- "WeatherInfoDelegate"
+- !private "print"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "removeAll"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["s13ArrayProtocolP", "removeAll"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "append"]
+- !private ["SK", "contains"]
+- !private ["SK", "dropFirst"]
+- !private ["SK", "dropLast"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["SK", "removeAll"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "dropFirst"]
+- !private ["s7CVarArgP", "dropLast"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "parsingJsonData"]
+- !private ["s7CVarArgP", "removeAll"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "value"]
+- !private ["Sl", "append"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "dropFirst"]
+- !private ["Sl", "dropLast"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "removeAll"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "contains"]
+- !private ["SL", "dropFirst"]
+- !private ["SL", "dropLast"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "dropFirst"]
+- !private ["s28CustomDebugStringConvertibleP", "dropLast"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "parsingJsonData"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAll"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "contains"]
+- !private ["s29CustomPlaygroundQuickLookableP", "dropFirst"]
+- !private ["s29CustomPlaygroundQuickLookableP", "dropLast"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "dropFirst"]
+- !private ["s17CustomReflectableP", "dropLast"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeAll"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "value"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "dropFirst"]
+- !private ["s23CustomStringConvertibleP", "dropLast"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "parsingJsonData"]
+- !private ["s23CustomStringConvertibleP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- !private ["Se", "contains"]
+- !private ["Se", "dropFirst"]
+- !private ["Se", "dropLast"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "removeAll"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- !private ["SE", "contains"]
+- !private ["SE", "dropFirst"]
+- !private ["SE", "dropLast"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "removeAll"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "append"]
+- !private ["SQ", "async"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "dropFirst"]
+- !private ["SQ", "dropLast"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "main"]
+- !private ["SQ", "parsingJsonData"]
+- !private ["SQ", "removeAll"]
+- !private ["SQ", "shared"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "value"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeAll"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "value"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dropLast"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "contains"]
+- !private ["s26ExpressibleByStringLiteralP", "dropFirst"]
+- !private ["s26ExpressibleByStringLiteralP", "dropLast"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "contains"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dropLast"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "Double"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "String"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "forcastDate"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "forcastIcon"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "forcastTemp"]
+- ["13Weather_Final0A4InfoC11ForcastDataV", "init"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "append"]
+- !private ["SH", "async"]
+- !private ["SH", "contains"]
+- !private ["SH", "delegate"]
+- !private ["SH", "dropFirst"]
+- !private ["SH", "dropLast"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "main"]
+- !private ["SH", "parsingJsonData"]
+- !private ["SH", "removeAll"]
+- !private ["SH", "shared"]
+- !private ["SH", "subscript"]
+- !private ["SH", "value"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "contains"]
+- !private ["s25LosslessStringConvertibleP", "dropFirst"]
+- !private ["s25LosslessStringConvertibleP", "dropLast"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "contains"]
+- !private ["s10MirrorPathP", "dropFirst"]
+- !private ["s10MirrorPathP", "dropLast"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "removeAll"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "contains"]
+- !private ["So8NSCodingP", "dropFirst"]
+- !private ["So8NSCodingP", "dropLast"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So9NSCopyingP", "contains"]
+- !private ["So9NSCopyingP", "dropFirst"]
+- !private ["So9NSCopyingP", "dropLast"]
+- !private ["So9NSCopyingP", "value"]
+- !private ["So12NSDictionaryC", "value"]
+- !private ["So17NSFastEnumerationP", "value"]
+- !private ["So20NSFetchRequestResultP", "value"]
+- !private ["So21NSItemProviderReadingP", "contains"]
+- !private ["So21NSItemProviderReadingP", "dropFirst"]
+- !private ["So21NSItemProviderReadingP", "dropLast"]
+- !private ["So21NSItemProviderWritingP", "contains"]
+- !private ["So21NSItemProviderWritingP", "dropFirst"]
+- !private ["So21NSItemProviderWritingP", "dropLast"]
+- !private ["So16NSMutableCopyingP", "contains"]
+- !private ["So16NSMutableCopyingP", "dropFirst"]
+- !private ["So16NSMutableCopyingP", "dropLast"]
+- !private ["So16NSMutableCopyingP", "value"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "contains"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "dropFirst"]
+- !private ["So8NSObjectC", "dropLast"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "parsingJsonData"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "contains"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "dropFirst"]
+- !private ["So8NSObjectP", "dropLast"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "parsingJsonData"]
+- !private ["So8NSObjectP", "shared"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So14NSSecureCodingP", "contains"]
+- !private ["So14NSSecureCodingP", "dropFirst"]
+- !private ["So14NSSecureCodingP", "dropLast"]
+- !private ["So14NSSecureCodingP", "value"]
+- !private ["So8NSStringC", "contains"]
+- !private ["So8NSStringC", "dropFirst"]
+- !private ["So8NSStringC", "dropLast"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- ["13Weather_Final9ParseJsonC", "init"]
+- !private ["13Weather_Final9ParseJsonC", "parsingJsonData"]
+- !private ["Sk", "append"]
+- !private ["Sk", "removeAll"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "dropFirst"]
+- !private ["Sm", "dropLast"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["Sm", "removeAll"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "append"]
+- !private ["ST", "contains"]
+- !private ["ST", "dropFirst"]
+- !private ["ST", "dropLast"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "removeAll"]
+- !private ["ST", "subscript"]
+- !private ["ST", "value"]
+- !private ["SS", "contains"]
+- !private ["SS", "dropFirst"]
+- !private ["SS", "dropLast"]
+- ["SS", "init"]
+- ["SS", "init"]
+- !private ["Sy", "contains"]
+- !private ["Sy", "dropFirst"]
+- !private ["Sy", "dropLast"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "contains"]
+- !private ["s16TextOutputStreamP", "dropFirst"]
+- !private ["s16TextOutputStreamP", "dropLast"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "contains"]
+- !private ["s20TextOutputStreamableP", "dropFirst"]
+- !private ["s20TextOutputStreamableP", "dropLast"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So13UIApplicationC", "delegate"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "shared"]
+- ["13Weather_Final0A4InfoC0A4DataV", "Double"]
+- ["13Weather_Final0A4InfoC0A4DataV", "String"]
+- ["13Weather_Final0A4InfoC0A4DataV", "cityName"]
+- ["13Weather_Final0A4InfoC0A4DataV", "description"]
+- ["13Weather_Final0A4InfoC0A4DataV", "humidity"]
+- ["13Weather_Final0A4InfoC0A4DataV", "icon"]
+- ["13Weather_Final0A4InfoC0A4DataV", "init"]
+- ["13Weather_Final0A4InfoC0A4DataV", "tempCurrent"]
+- ["13Weather_Final0A4InfoC0A4DataV", "tempMax"]
+- ["13Weather_Final0A4InfoC0A4DataV", "tempMin"]
+- ["13Weather_Final0A4InfoC0A4DataV", "wind"]
+- ["13Weather_Final0A4InfoC", "AppDelegate"]
+- ["13Weather_Final0A4InfoC", "Bool"]
+- ["13Weather_Final0A4InfoC", "CityWeather"]
+- !private ["13Weather_Final0A4InfoC", "DispatchQueue"]
+- ["13Weather_Final0A4InfoC", "Double"]
+- ["13Weather_Final0A4InfoC", "ForcastData"]
+- !private ["13Weather_Final0A4InfoC", "Int"]
+- !private ["13Weather_Final0A4InfoC", "NSDictionary"]
+- ["13Weather_Final0A4InfoC", "ParseJson"]
+- ["13Weather_Final0A4InfoC", "String"]
+- !private ["13Weather_Final0A4InfoC", "UIApplication"]
+- ["13Weather_Final0A4InfoC", "WeatherData"]
+- ["13Weather_Final0A4InfoC", "WeatherInfoDelegate"]
+- ["13Weather_Final0A4InfoC", "cityCoreData"]
+- ["13Weather_Final0A4InfoC", "delegate"]
+- ["13Weather_Final0A4InfoC", "forcastData"]
+- ["13Weather_Final0A4InfoC", "getWeather"]
+- ["13Weather_Final0A4InfoC", "getWeatherForcast"]
+- ["13Weather_Final0A4InfoC", "init"]
+- ["13Weather_Final0A4InfoC", "myAppDelegate"]
+- !private ["13Weather_Final0A4InfoC", "myAppDelegate.storage"]
+- ["13Weather_Final0A4InfoC", "parseJson"]
+- !private ["13Weather_Final0A4InfoC", "parseJson.storage"]
+- !private ["13Weather_Final0A4InfoC", "print"]
+- ["13Weather_Final0A4InfoC", "weatherData"]
+- !private ["13Weather_Final0A4InfoC", "weatherData.storage"]
+- ["13Weather_Final0A12InfoDelegateP", "String"]
+- ["13Weather_Final0A12InfoDelegateP", "WeatherInfo"]
+- ["13Weather_Final0A12InfoDelegateP", "jsonErrorMessage"]
+- ["13Weather_Final0A12InfoDelegateP", "setWeather"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "removeAll"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "contains"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropFirst"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "dropLast"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "contains"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropFirst"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "dropLast"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "contains"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "dropFirst"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "dropLast"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "contains"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropFirst"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "dropLast"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "contains"]
+- !private ["s33_ExpressibleByStringInterpolationP", "dropFirst"]
+- !private ["s33_ExpressibleByStringInterpolationP", "dropLast"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropFirst"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "dropLast"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeAll"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contains"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropFirst"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dropLast"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "parsingJsonData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "dropFirst"]
+- !private ["s21_ObjectiveCBridgeableP", "dropLast"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "removeAll"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "contains"]
+- !private ["s16_SwiftStringViewP", "dropFirst"]
+- !private ["s16_SwiftStringViewP", "dropLast"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "13Weather_Final0A4InfoC11ForcastDataV"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So12NSDictionaryC"
+- !private "So17NSFastEnumerationP"
+- !private "So20NSFetchRequestResultP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So9OS_objectC"
+- "13Weather_Final9ParseJsonC"
+- !private "Sk"
+- "Sm"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So13UIApplicationC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So23UIUserActivityRestoringP"
+- "13Weather_Final0A4InfoC0A4DataV"
+- "13Weather_Final0A4InfoC"
+- "13Weather_Final0A12InfoDelegateP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9bf2c6d1f7cf70bfe6bfb08ac0412107"

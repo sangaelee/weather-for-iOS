@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8270AE73-EEFB-4585-8003-02DC62D7430B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8270AE73-EEFB-4585-8003-02DC62D7430B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weather_Final project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weather_Final</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Weather_Final</string>
+			<key>timeStartedRecording</key>
+			<real>561400483.74141502</real>
+			<key>timeStoppedRecording</key>
+			<real>561400545.03905797</real>
+			<key>title</key>
+			<string>Debug Weather_Final</string>
+			<key>uniqueIdentifier</key>
+			<string>8270AE73-EEFB-4585-8003-02DC62D7430B</string>
+		</dict>
+		<key>ED4AF9D8-C67B-45AE-BA3D-C09FCA634203</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED4AF9D8-C67B-45AE-BA3D-C09FCA634203.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Weather_Final project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Weather_Final</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Weather_Final</string>
+			<key>timeStartedRecording</key>
+			<real>561400097.63910794</real>
+			<key>timeStoppedRecording</key>
+			<real>561400193.93776405</real>
+			<key>title</key>
+			<string>Debug Weather_Final</string>
+			<key>uniqueIdentifier</key>
+			<string>ED4AF9D8-C67B-45AE-BA3D-C09FCA634203</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
